@@ -1,6 +1,6 @@
 .producto-tarjeta{
-  width: 280px;
-  background-color: antiquewhite;
+  width: 250px;
+  background-color: rgb(121, 235, 255);
   border-radius: 12px;
   text-align: center;
   margin: 10px;
@@ -59,7 +59,7 @@ body{
 }
 
 .producto-btn{
-  background-color: chocolate;
+  background-color: rgb(19, 82, 255);
   color: white;
   border: none;
   padding: 10px;
